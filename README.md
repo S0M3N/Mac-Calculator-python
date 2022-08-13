@@ -23,3 +23,8 @@ mac one.
 ![App Screenshot](https://github.com/S0M3N/Mac-Calculator-python/blob/main/images/Screenshot%20from%202022-08-13%2017-18-29.png)
 ![App Screenshot](https://github.com/S0M3N/Mac-Calculator-python/blob/main/images/Screenshot%20from%202022-08-13%2017-19-11.png)
 ![App Screenshot](https://github.com/S0M3N/Mac-Calculator-python/blob/main/images/Screenshot%20from%202022-08-13%2017-19-28.png)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+

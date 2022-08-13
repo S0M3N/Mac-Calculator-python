@@ -25,6 +25,8 @@ mac one.
 ![App Screenshot](https://github.com/S0M3N/Mac-Calculator-python/blob/main/images/Screenshot%20from%202022-08-13%2017-19-28.png)
 
 ## License
+![LICENSE Screenshot](https://github.com/S0M3N/Mac-Calculator-python/blob/main/images/download.png)
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices.

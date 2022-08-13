@@ -1,5 +1,4 @@
 from tkinter import *
-from turtle import width
 
 #font
 small_font = ("arial", 16)

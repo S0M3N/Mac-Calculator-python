@@ -3,7 +3,7 @@
 
 A simple python tkinter calulator having mac calculator theme, which is able to do most of the calculation works like addition, substraction, multiplication, division.
 
-Also have clear, squaring and square-rootoptions.
+Also have clear, squaring and square-root options.
 
 ## Usage
 

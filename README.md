@@ -17,3 +17,9 @@ To use this on your pc just run the following command on your terminal or comman
 ```
 and that is it you will see a calculator similar to that of 
 mac one.
+
+## Screenshots
+
+![App Screenshot](https://github.com/S0M3N/Mac-Calculator-python/blob/main/images/Screenshot%20from%202022-08-13%2017-18-29.png)
+![App Screenshot](https://github.com/S0M3N/Mac-Calculator-python/blob/main/images/Screenshot%20from%202022-08-13%2017-19-11.png)
+![App Screenshot](https://github.com/S0M3N/Mac-Calculator-python/blob/main/images/Screenshot%20from%202022-08-13%2017-19-28.png)
